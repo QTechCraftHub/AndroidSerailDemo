@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SerialApp</string>
+    <string name="watch_device">查看数据</string>
+    <string name="textview">TextView</string>
+    <string name="Tip2">接收数据</string>
+    <string name="Tip1">发送数据</string>
+    <string name="Tip3">发送</string>
+</resources>

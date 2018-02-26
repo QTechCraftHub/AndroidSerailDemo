@@ -1,0 +1,38 @@
+
+{
+	"buildFiles" : [ "E:/CODE/android/SerialApp/V1/app/CMakeLists.txt" ],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"E:\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\CODE\\android\\SerialApp\\V1\\app\\.externalNativeBuild\\cmake\\release\\x86_64 --target clean"
+	],
+	"libraries" : 
+	{
+		"SerialAPI-Release-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "SerialAPI",
+			"buildCommand" : "E:\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\CODE\\android\\SerialApp\\V1\\app\\.externalNativeBuild\\cmake\\release\\x86_64 --target SerialAPI",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android --gcc-toolchain=E:/Android/Sdk/ndk-bundle/toolchains/x86_64-4.9/prebuilt/windows-x86_64 --sysroot=E:/Android/Sdk/ndk-bundle/sysroot -DSerialAPI_EXPORTS  -isystem E:/Android/Sdk/ndk-bundle/sysroot/usr/include/x86_64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC      -c ",
+					"src" : "E:/CODE/android/SerialApp/V1/app/src/main/cpp/SerialAPI.c",
+					"workingDirectory" : "E:/CODE/android/SerialApp/V1/app/.externalNativeBuild/cmake/release/x86_64"
+				}
+			],
+			"output" : "E:/CODE/android/SerialApp/V1/app/build/intermediates/cmake/release/obj/x86_64/libSerialAPI.so",
+			"toolchain" : "2259502793"
+		}
+	},
+	"toolchains" : 
+	{
+		"2259502793" : 
+		{
+			"cCompilerExecutable" : "E:/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "E:/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

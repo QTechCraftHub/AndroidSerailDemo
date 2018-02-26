@@ -1,0 +1,21 @@
+# ninja log v5
+1	305	0	CMakeFiles/SerialAPI.dir/src/main/cpp/SerialAPI.c.o	232b6d38125603c6
+307	452	0	../../../../build/intermediates/cmake/debug/obj/armeabi/libSerialAPI.so	f553c7cdfbe2be5f
+3	280	0	CMakeFiles/SerialAPI.dir/src/main/cpp/SerialAPI.c.o	232b6d38125603c6
+280	442	0	../../../../build/intermediates/cmake/debug/obj/armeabi/libSerialAPI.so	f553c7cdfbe2be5f
+2	283	0	CMakeFiles/SerialAPI.dir/src/main/cpp/SerialAPI.c.o	232b6d38125603c6
+283	404	0	../../../../build/intermediates/cmake/debug/obj/armeabi/libSerialAPI.so	f553c7cdfbe2be5f
+2	447	0	CMakeFiles/SerialAPI.dir/src/main/cpp/SerialAPI.c.o	232b6d38125603c6
+448	663	0	../../../../build/intermediates/cmake/debug/obj/armeabi/libSerialAPI.so	f553c7cdfbe2be5f
+2	284	0	CMakeFiles/SerialAPI.dir/src/main/cpp/SerialAPI.c.o	232b6d38125603c6
+284	438	0	../../../../build/intermediates/cmake/debug/obj/armeabi/libSerialAPI.so	f553c7cdfbe2be5f
+2	232	0	CMakeFiles/SerialAPI.dir/src/main/cpp/SerialAPI.c.o	232b6d38125603c6
+233	357	0	../../../../build/intermediates/cmake/debug/obj/armeabi/libSerialAPI.so	f553c7cdfbe2be5f
+3	288	0	CMakeFiles/SerialAPI.dir/src/main/cpp/SerialAPI.c.o	232b6d38125603c6
+288	415	0	../../../../build/intermediates/cmake/debug/obj/armeabi/libSerialAPI.so	f553c7cdfbe2be5f
+2	237	0	CMakeFiles/SerialAPI.dir/src/main/cpp/SerialAPI.c.o	232b6d38125603c6
+238	378	0	../../../../build/intermediates/cmake/debug/obj/armeabi/libSerialAPI.so	f553c7cdfbe2be5f
+2	433	0	CMakeFiles/SerialAPI.dir/src/main/cpp/SerialAPI.c.o	232b6d38125603c6
+436	681	0	../../../../build/intermediates/cmake/debug/obj/armeabi/libSerialAPI.so	f553c7cdfbe2be5f
+3	252	0	CMakeFiles/SerialAPI.dir/src/main/cpp/SerialAPI.c.o	232b6d38125603c6
+253	418	0	../../../../build/intermediates/cmake/debug/obj/armeabi/libSerialAPI.so	f553c7cdfbe2be5f
